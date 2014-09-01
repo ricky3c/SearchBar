@@ -1,0 +1,17 @@
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\bin\Debug\SearchBar.dll
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\bin\Debug\SearchBar.pdb
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\bin\Debug\SearchBar.dll.mdb
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\bin\Debug\SearchBar.SearchBar.apk
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\bin\Debug\SearchBar.SearchBar-Signed.apk
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\obj\Debug\SearchBar.csprojResolveAssemblyReference.cache
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\obj\Debug\SearchBar.dll
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\obj\Debug\SearchBar.pdb
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\obj\Debug\android\bin\SearchBar.SearchBar.apk
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\obj\Debug\res\layout\main.xml
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\obj\Debug\res\values\strings.xml
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\obj\Debug\res\drawable\icon.png
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\obj\Debug\res\menu\main.xml
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\obj\Debug\R.cs.flag
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\obj\Debug\uploadflags.txt

@@ -1,0 +1,16 @@
+/Users/developerii/Projects/SearchBar/SearchBar/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/developerii/Projects/SearchBar/SearchBar/bin/Debug/SearchBar.dll.mdb
+/Users/developerii/Projects/SearchBar/SearchBar/bin/Debug/SearchBar.dll
+/Users/developerii/Projects/SearchBar/SearchBar/bin/Debug/SearchBar.SearchBar.apk
+/Users/developerii/Projects/SearchBar/SearchBar/obj/Debug/android/bin/SearchBar.SearchBar.apk
+/Users/developerii/Projects/SearchBar/SearchBar/obj/Debug/res/layout/main.xml
+/Users/developerii/Projects/SearchBar/SearchBar/obj/Debug/res/values/strings.xml
+/Users/developerii/Projects/SearchBar/SearchBar/obj/Debug/res/drawable/icon.png
+/Users/developerii/Projects/SearchBar/SearchBar/obj/Debug/res/menu/main.xml
+/Users/developerii/Projects/SearchBar/SearchBar/obj/Debug/R.cs.flag
+/Users/developerii/Projects/SearchBar/SearchBar/bin/Debug/SearchBar.SearchBar-Signed.apk
+/Users/developerii/Projects/SearchBar/SearchBar/obj/Debug/uploadflags.txt
+/Users/developerii/Projects/SearchBar/SearchBar/obj/Debug/SearchBar.dll
+/Users/developerii/Projects/SearchBar/SearchBar/obj/Debug/SearchBar.dll.mdb
+/Users/developerii/Projects/SearchBar/SearchBar/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/developerii/Projects/SearchBar/SearchBar/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll

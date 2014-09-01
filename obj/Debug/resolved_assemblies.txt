@@ -1,0 +1,3 @@
+C:\Users\ricardo\Documents\Projects\SearchBar\SearchBar\bin\Debug\SearchBar.dll
+C:\Users\ricardo\Documents\Projects\SearchBar\Components\xamandroidsupportv7appcompat-20.0.0\lib\android\Xamarin.Android.Support.v4.dll
+C:\Users\ricardo\Documents\Projects\SearchBar\Components\xamandroidsupportv7appcompat-20.0.0\lib\android\Xamarin.Android.Support.v7.AppCompat.dll
